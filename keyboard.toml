@@ -20,7 +20,7 @@ cols = 8
 layers = 1
 keymap = [
     [
-        [No, KEY_GRAVE, KEY_1, KEY_2, KEY_3, KEY_4, KEY_5, KEY_6]
+        [No, KEY_GRAVE, KEY_1, KEY_2, KEY_3, KEY_4, KEY_5, KEY_6],
         [No, KEY_LWIN, KEY_TAB, KEY_Q, KEY_W, KEY_E, KEY_R, KEY_V],
         [No, KEY_F8, KEY_CAPS_LOCK, KEY_A, KEY_S, KEY_D, KEY_F, KEY_N],
         [No, KEY_F9, No, KEY_Y, KEY_X, KEY_C, KEY_SPACE, KEY_B],
