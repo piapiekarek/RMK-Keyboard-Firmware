@@ -38,7 +38,7 @@ keymap = [
 # Just ignore if no light pin is used for it
 # numslock.pin = "PA5"
 # numslock.low_active = true
-sk6803 = { pin = "PIN_11", led_count = 30 }
+ws2812 = { pin = "PIN_11", led_count = 30 }
 
 
 
